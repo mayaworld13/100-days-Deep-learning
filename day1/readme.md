@@ -106,14 +106,15 @@ For example, in image processing:
 
 4. Deep Learning Architectures:
 
-Pre-existing architectures for various tasks, such as ResNet for image classification, BERT for text classification, UNet for image segmentation, and YOLO for object detection.
+    Pre-existing architectures for various tasks, such as ResNet for image classification, BERT for text classification, UNet for image 
+    segmentation, and YOLO for object detection.
 
-Starting with Deep Learning
+     Starting with Deep Learning
 
-   - Beginner: Use CPU for small-scale projects.
-   - Intermediate: Move to GPU or TPU for larger projects.
-   - Mobile: Use mobile CPUs, GPUs, DSPs (Digital Signal Processors), or NPUs for smartphone applications.
-   - Wearable: Use Edge TPUs or NPUs for smartwatches or smart glasses.
+      - Beginner: Use CPU for small-scale projects.
+      - Intermediate: Move to GPU or TPU for larger projects.
+      - Mobile: Use mobile CPUs, GPUs, DSPs (Digital Signal Processors), or NPUs for smartphone applications.
+      - Wearable: Use Edge TPUs or NPUs for smartwatches or smart glasses.
 
 Moore's Law:
 
